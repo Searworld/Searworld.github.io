@@ -1,0 +1,26 @@
+# Site settings
+title:          Tale
+description:    "blog"
+url:            "https://Searworld.github.io"
+
+# Author
+author:
+  name:        Sear
+  url:         https://Searworld.github.io
+  email:       1871733910@qq.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5

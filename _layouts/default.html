@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+    <nav class="nav">
+      <div class="nav-container">
+        <i class="icon iconfont icon-boke1 iconstyle" aria-hidden="true">
+          <a target="_blank" href="{{ site.baseurl }}">
+          </a>
+        </i>
+        <ul>
+          <li><a href="{{ '/cover' | prepend: site.baseurl }}">主页</a></li>
+          <li><a href="{{ site.baseurl }}/">文章</a></li>
+          <li><a href="{{ '/about' | prepend: site.baseurl}}/">关于我</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <span>
+        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+      </span>
+    </footer>
+  </body>
+</html>
