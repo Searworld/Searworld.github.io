@@ -29,6 +29,9 @@
     font-weight: 600;
     margin: .5rem 0;
   }
+  &-content{
+    text-align: justify;
+  }
 
   &-line {
     @include transition(all .3s ease-out);
