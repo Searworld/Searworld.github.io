@@ -62,8 +62,8 @@
       <file leaf-file-name="2018-06-08-web安全:CSRF攻击原理以及防御.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-06-08-web安全:CSRF攻击原理以及防御.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+            <state relative-caret-position="106">
+              <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -328,7 +328,7 @@
       <workItem from="1527081858858" duration="26516000" />
       <workItem from="1527821539299" duration="8925000" />
       <workItem from="1528098113630" duration="36000" />
-      <workItem from="1528443410836" duration="238000" />
+      <workItem from="1528443410836" duration="479000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1527832385930</created>
@@ -358,11 +358,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528443524400</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加文章《web安全:CSRF攻击原理以及防御》">
+      <created>1528443658190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1528443658190</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35715000" />
+    <option name="totallyTimeSpent" value="35956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -736,8 +743,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-08-web安全:CSRF攻击原理以及防御.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        <state relative-caret-position="106">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding />
         </state>
       </provider>
