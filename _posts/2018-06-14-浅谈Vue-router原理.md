@@ -37,13 +37,13 @@ export default routes
 
 ### **Vue-router原理了解一下：**
 
-找到一篇文章，分析的很透彻 [从vue-router看前端路由的两种实现](https://legacy.gitbook.com/book/searworld/vux/edit#)，文章写的很好，看完这篇文章 ➕ 看源码应该可以理解，这里根据我浅显的理解概括一下：
+找到一篇文章，分析的很透彻 [从vue-router看前端路由的两种实现](https://zhuanlan.zhihu.com/p/27588422)，文章写的很好，看完这篇文章 ➕ 看源码应该可以理解，这里根据我浅显的理解概括一下：
 
 vue-router通过**hash**与**History interfac**e两种方式实现前端路由，更新视图但不重新请求页面”是前端路由原理的核心之一，目前在浏览器环境中这一功能的实现主要有两种方式
 
 1.  `hash` ---- 利用URL中的hash（“#”）
 
-2.  利用`History` interface在 HTML5中新增的方法, [详情点击](https://legacy.gitbook.com/book/searworld/vux/edit#)
+2.  利用`History` interface在 HTML5中新增的方法, [详情点击](https://www.w3cplus.com/html5/html5-history-api.html)
 
 那么，我们要选择用哪种方式呢？
 
