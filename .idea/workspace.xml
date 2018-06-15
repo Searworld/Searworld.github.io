@@ -50,8 +50,8 @@
       <file leaf-file-name="2018-06-15-封装jsonp+promise实现跨域「 音乐接口.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-06-15-封装jsonp+promise实现跨域「 音乐接口.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+            <state relative-caret-position="391">
+              <caret line="89" column="194" lean-forward="false" selection-start-line="89" selection-start-column="194" selection-end-line="89" selection-end-column="194" />
               <folding />
             </state>
           </provider>
@@ -330,7 +330,7 @@
       <workItem from="1528647946496" duration="364000" />
       <workItem from="1528682515369" duration="265000" />
       <workItem from="1528976463972" duration="1518000" />
-      <workItem from="1529028743144" duration="460000" />
+      <workItem from="1529028743144" duration="557000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1527832385930</created>
@@ -430,11 +430,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529029092629</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="添加文章《封装jsonp+promise实现跨域「 音乐接口」》">
+      <created>1529029237893</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1529029237893</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40311000" />
+    <option name="totallyTimeSpent" value="40408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -807,8 +814,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-15-封装jsonp+promise实现跨域「 音乐接口.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        <state relative-caret-position="391">
+          <caret line="89" column="194" lean-forward="false" selection-start-line="89" selection-start-column="194" selection-end-line="89" selection-end-column="194" />
           <folding />
         </state>
       </provider>
