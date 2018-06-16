@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fe4379a-481f-4ca3-82b3-e3304a076da0" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2018-06-15-node.js代理跨域 「案例: 音乐接口」.md" afterPath="$PROJECT_DIR$/_posts/2018-06-16-node.js代理跨域 「案例: 音乐接口」.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2018-06-16-封装jsonp+promise实现跨域「 音乐接口.md" afterPath="$PROJECT_DIR$/_posts/2018-06-15-封装jsonp+promise实现跨域「 音乐接口.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2018-06-15-封装jsonp+promise实现跨域「 音乐接口.md" afterPath="$PROJECT_DIR$/_posts/2018-06-15-封装jsonp+promise实现跨域.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2018-06-16-node.js代理跨域 「案例: 音乐接口」.md" afterPath="$PROJECT_DIR$/_posts/2018-06-16-node.js代理跨域.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -38,8 +38,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-06-15-封装jsonp+promise实现跨域「 音乐接口.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-06-15-封装jsonp+promise实现跨域「 音乐接口.md">
+      <file leaf-file-name="2018-06-15-封装jsonp+promise实现跨域.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-15-封装jsonp+promise实现跨域.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="284">
               <caret line="89" column="194" lean-forward="false" selection-start-line="89" selection-start-column="194" selection-end-line="89" selection-end-column="194" />
@@ -48,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-06-16-node.js代理跨域 「案例: 音乐接口」.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-06-16-node.js代理跨域 「案例: 音乐接口」.md">
+      <file leaf-file-name="2018-06-16-node.js代理跨域.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-16-node.js代理跨域.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="152">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -333,7 +333,7 @@
       <workItem from="1528682515369" duration="265000" />
       <workItem from="1528976463972" duration="1518000" />
       <workItem from="1529028743144" duration="716000" />
-      <workItem from="1529122199399" duration="835000" />
+      <workItem from="1529122199399" duration="1009000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1527832385930</created>
@@ -454,11 +454,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529156561732</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="添加文章《node.js代理跨域 「案例: 音乐接口」》">
+      <created>1529156650149</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1529156650149</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41402000" />
+    <option name="totallyTimeSpent" value="41576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="815" extended-state="0" />
@@ -822,7 +829,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-15-封装jsonp+promise实现跨域「 音乐接口.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-15-封装jsonp+promise实现跨域.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
           <caret line="89" column="194" lean-forward="false" selection-start-line="89" selection-start-column="194" selection-end-line="89" selection-end-column="194" />
@@ -830,10 +837,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-16-node.js代理跨域 「案例: 音乐接口」.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-16-node.js代理跨域.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
